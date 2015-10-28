@@ -1,4 +1,4 @@
-# RebaseTesting
+# Scot
 Testing ground for rebasing
 
 #Git 1
